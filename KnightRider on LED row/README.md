@@ -1,0 +1,2 @@
+Efekt przewijającej się diodki na kilku diodach zamontowanych obok siebie na płytce stykowej, jak w serialu Nieustraszony (Knight Rider)
+wszystkie diody na jednym porcie mikrokontrolera, przesuwanie zapalonych diod przez operacje bitowe

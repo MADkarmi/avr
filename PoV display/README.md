@@ -1,0 +1,1 @@
+Zamontuj kilka diod LED jedna obok drugiej na płytce stykowej, i steruj nimi tak, aby poruszając płytką w powietrzu pokazał się jakiś napis. Wszystkie diody na jednym porcie mikrokontrolera, wyświetlenie kolumny jednym zapisem do portu, dane do wyświetlenia zapisane w tablicy

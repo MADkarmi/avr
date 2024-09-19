@@ -1,0 +1,1 @@
+Zbuduj i zaprogramuj układ tłumaczący tekst na kod Morse’a. Tekst ma być wprowadzany na komputerze, a wynik ma zostać wyemitowany przy użyciu diody i brzęczyka podłączonych pod Arduino

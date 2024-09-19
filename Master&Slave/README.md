@@ -1,0 +1,3 @@
+Zrealizuj za pomocą dwóch Arduino (zadanie można wykonać w dwie osoby) grę typu zgadnij liczbę.
+Pierwsze Arduino (SPI slave) powinno wylosować liczbę M z zakresu 0-99, po czym przy użyciu protokołu SPI odpowiadać na pytania – czy zadana liczba N jest mniejsza, większa czy równa liczbie M? (Można to zrobić przez dwa zapytania na magistrali: w pierwszym master podaje liczbę N, slave odsyła 0; w drugim master wysyła 0, slave odsyła wartość 1/0/-1). Jeśli master zgadł, liczba M powinna zostać wylosowana ponownie.
+Drugie Arduino (SPI master) powinno odczytać przez UART liczbę N z komputera, spytać o nią slave'a, po czym zaprezentować wynik (np. mignąć jedną z trzech diod i napisać komunikat przez UART)
